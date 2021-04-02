@@ -1,0 +1,12 @@
+#logo-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 47px;
+}
+
+img {
+    height: 92px;
+    width: 272px;
+    padding-top: 109px;
+}
